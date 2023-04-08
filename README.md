@@ -4,9 +4,11 @@ Hospital Management system includes registration of patients, storing their dise
 User Login: 
 
 Username: user
+
 Password: user
 
 Admin Login:
 
 Username: admin
+
 Password: admin
